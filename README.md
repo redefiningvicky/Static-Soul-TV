@@ -27,7 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-This project is a browser-based vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware to a modern browser. It is a reminder to stay human, authentic, and hopeful while holding on to our principles and values.
+This project is a vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware to a modern browser. It is a reminder to stay human, authentic, and hopeful while holding on to our principles and values.
 </p>
 
 <hr>
