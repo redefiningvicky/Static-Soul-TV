@@ -207,6 +207,22 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
+<h3>Amy Acton for Ohio TV Commercial</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_05_acton.png">
+        <img
+          src="screenshots/cropped_screenshots/cropped_screenshot_05_acton.png"
+          alt="Amy Acton"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h3>Off Air</h3>
 
 <table>
