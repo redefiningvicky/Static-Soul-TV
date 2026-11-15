@@ -55,9 +55,10 @@ This project is a browser-based vintage television experience for watching Democ
   <ul>
     <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
     <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
-    <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom</a></li>  
+    <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom for Mississippi</a></li>  
     <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
-  
+    <li><a href="https://youtu.be/u_9GX4n5GHI?si=2GU3mq74HkVSpRHZ">Abuse by Amy Acton for Ohio</a></li>
+    <li>Being human.</li>
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
@@ -174,7 +175,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Colom TV Commercial</h3>
+<h3>James Colom for Mississippi TV Commercial</h3>
 
 <table>
   <tr>
@@ -190,7 +191,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Talarico TV Commercial</h3>
+<h3>James Talarico for Texas TV Commercial</h3>
 
 <table>
   <tr>
