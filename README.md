@@ -58,7 +58,7 @@ This project is a browser-based vintage television experience for watching Democ
     <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom for Mississippi</a></li>  
     <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
     <li><a href="https://youtu.be/u_9GX4n5GHI?si=2GU3mq74HkVSpRHZ">Abuse by Amy Acton for Ohio</a></li>
-    <li>Being human.</li>
+    <li>Being human. Being a human storyteller.</li>
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
