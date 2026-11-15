@@ -94,6 +94,17 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <h2 id="details">🔎 Details</h2>
 
 <details>
+  <summary><strong>Symbolism</strong></summary>
+  <ul>
+    <li>Magnolia, state flower of Mississippi.</li>
+    <li>Model 2026, 2026 Midterm Elections.</li>
+    <li>Solid Blue State, Democratic Party associated with blue.</li>
+    <li>Color Television, for racial equality.</li>
+    <li>On Air Democratic Party, hope for the people and nation.</li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>Television &amp; Atmosphere</strong></summary>
   <ul>
     <li>Scalable walnut cabinet with analog-style hardware.</li>
@@ -147,7 +158,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>Static</h3>
+<h3>Static Screen</h3>
 
 <table>
   <tr>
@@ -163,7 +174,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Colom</h3>
+<h3>James Colom TV Commercial</h3>
 
 <table>
   <tr>
@@ -179,7 +190,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Talarico</h3>
+<h3>James Talarico TV Commercial</h3>
 
 <table>
   <tr>
@@ -195,7 +206,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Off Air</h3>
+<h3>Off Air</h3>
 
 <table>
   <tr>
