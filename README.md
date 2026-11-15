@@ -3,8 +3,7 @@
   <h1>📺 Static Soul TV</h1>
 
   <p>
-    A vintage television experience that brings warm walnut,
-    analog texture, and your favorite Democratic TV commercials into a quiet room.
+    A vintage television experience that brings analog texture and your favorite Democratic TV commercials into a quiet room.
   </p>
 
 </div>
