@@ -3,8 +3,7 @@
   <h1>📺 Static Soul TV</h1>
 
   <p>
-    A vintage television experience that brings warm walnut,
-    analog texture, and your favorite Democratic TV commercials into a quiet room.
+    A vintage television experience that brings analog texture and favorite Democratic TV commercials into a quiet room.
   </p>
 
 </div>
@@ -28,10 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  Static Soul TV turns watching a video into a small, atmospheric ritual.
-  A vintage television takes center stage, while compact controls and a
-  softly lit room keep the focus on the screen. The project combines
-  the character of analog hardware with the convenience of browser video.
+This project is a browser-based vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware to a modern browser. It is a reminder to stay human, authentic, and hopeful while holding on to our principles and values.
 </p>
 
 <hr>
@@ -39,10 +35,7 @@
 <h2 id="inspiration">✨ Inspiration</h2>
 
 <p>
-  The visual direction draws on vintage walnut television cabinets,
-  warm tungsten lighting, tactile knobs, and the familiar flicker of a
-  CRT screen. Static, soft picture texture, and channel-switching
-  transitions bring that analog character to a modern viewing experience.
+
 </p>
 
 <table>
@@ -62,9 +55,10 @@
   <ul>
     <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
     <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
-    <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom</a></li>  
+    <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom for Mississippi</a></li>  
     <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
-  
+    <li><a href="https://youtu.be/u_9GX4n5GHI?si=2GU3mq74HkVSpRHZ">Abuse by Amy Acton for Ohio</a></li>
+    <li>Being human. Being a human storyteller.</li>
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
@@ -78,10 +72,9 @@
 <h2 id="experience">🛋️ Experience</h2>
 
 <p>
-  Step into a dimly lit room and settle in front of a walnut television.
-  Start with a little static, add a video, and tune between three channels
-  of your own choosing. Open the remote when you need it, adjust the
-  picture, and let the surrounding interface fade as you watch.
+Step into a dimly lit room and settle in front of a vintage television framed in warm walnut. Begin with a little static, add your own videos, and tune between three channels of your choosing. Open the remote to adjust the picture, then let the surrounding interface fade as you watch.
+
+The visual direction pairs walnut cabinetry and warm tungsten lighting with tactile knobs and the familiar flicker of a CRT screen. Soft picture texture, static, and channel-switching transitions bring analog character to a modern viewing experience.
 </p>
 
 <hr>
@@ -100,6 +93,17 @@
 <hr>
 
 <h2 id="details">🔎 Details</h2>
+
+<details>
+  <summary><strong>Symbolism</strong></summary>
+  <ul>
+    <li>Magnolia, state flower of Mississippi.</li>
+    <li>Model 2026, 2026 Midterm Elections.</li>
+    <li>Solid Blue State, Democratic Party associated with blue.</li>
+    <li>Color Television, for racial equality.</li>
+    <li>On Air Democratic Party, hope for the people and nation.</li>
+  </ul>
+</details>
 
 <details>
   <summary><strong>Television &amp; Atmosphere</strong></summary>
@@ -145,11 +149,79 @@
 
 <hr>
 
-<h2 id="app">📺 App</h2>
+<h2 id="app">📺 TV</h2>
 
 <p>
-  <a href="https://static-soul-tv.vercel.app/">Launch App</a>
+  <a href="https://static-soul-tv.vercel.app/">Launch TV</a>
 </p>
+
+<hr>
+
+<h2 id="images">🖼️ Images</h2>
+
+<h3>Static Screen</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_01_on.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_01_on.png"
+          alt="On Air"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>James Colom for Mississippi TV Commercial</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_02_colom.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_02_colom.png"
+          alt="Scott Colom"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>James Talarico for Texas TV Commercial</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_03_talarico.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_03_talarico.png"
+          alt="James Talarico"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Off Air</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_04_off.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_04_off.png"
+          alt="James Colom"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
