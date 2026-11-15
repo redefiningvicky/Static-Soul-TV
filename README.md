@@ -45,12 +45,32 @@
   transitions bring that analog character to a modern viewing experience.
 </p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">
+        <img
+          src="https://s3.amazonaws.com/cms.ipressroom.com/173/files/20262/69b17b4e2cfac21916f5dbcc_Sammie+playing+guitar/Sammie+playing+guitar_mid.jpg"
+          width="480"
+          alt="Sinners by Ryan Coogler"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+  <ul>
+    <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
+    <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
+    <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom</a></li>  
+    <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
+  
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p><strong>Tools:</strong> Lovable, ChatGPT, Vercel</p>
-
+<p><strong>Models:</strong> ChatGPT Sol 6.1 (2026), ChatGPT Astra 6 (2026)</p>
 <p><strong>Format:</strong> Browser Video</p>
 
 <hr>
@@ -128,7 +148,7 @@
 <h2 id="app">📺 App</h2>
 
 <p>
-  <a href="https://static-soul-tv.vercel.app/">Launch Static Soul TV</a>
+  <a href="https://static-soul-tv.vercel.app/">Launch App</a>
 </p>
 
 <hr>
