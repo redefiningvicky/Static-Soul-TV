@@ -19,7 +19,7 @@
   <li><a href="#experience">Experience</a></li>
   <li><a href="#how-to-use">How to Use</a></li>
   <li><a href="#details">Details</a></li>
-  <li><a href="#app">App</a></li>
+  <li><a href="#tv">TV</a></li>
 </ul>
 
 <hr>
