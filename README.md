@@ -38,10 +38,7 @@
 <h2 id="inspiration">✨ Inspiration</h2>
 
 <p>
-  The visual direction draws on vintage walnut television cabinets,
-  warm tungsten lighting, tactile knobs, and the familiar flicker of a
-  CRT screen. Static, soft picture texture, and channel-switching
-  transitions bring that analog character to a modern viewing experience.
+
 </p>
 
 <table>
@@ -77,10 +74,18 @@
 <h2 id="experience">🛋️ Experience</h2>
 
 <p>
-  Step into a dimly lit room and settle in front of a walnut television.
+  Step into a dimly lit room and settle in front of a vintage warm walnut television.
   Start with a little static, add a video, and tune between three channels
   of your own choosing. Open the remote when you need it, adjust the
   picture, and let the surrounding interface fade as you watch.
+
+  The visual direction draws on vintage walnut television cabinets,
+  warm tungsten lighting, tactile knobs, and the familiar flicker of a
+  CRT screen. Static, soft picture texture, and channel-switching
+  transitions bring that analog character to a modern viewing experience.
+
+
+  
 </p>
 
 <hr>
