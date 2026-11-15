@@ -27,10 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  Static Soul TV turns watching a video into a small, atmospheric ritual.
-  A vintage television takes center stage, while compact controls and a
-  softly lit room keep the focus on the screen. The project combines
-  the character of analog hardware with the convenience of browser video.
+This project is a browser-based vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware to a modern browser. It is a reminder to stay human, authentic, and hopeful while holding on to our principles and values.
 </p>
 
 <hr>
@@ -74,18 +71,9 @@
 <h2 id="experience">🛋️ Experience</h2>
 
 <p>
-  Step into a dimly lit room and settle in front of a vintage warm walnut television.
-  Start with a little static, add a video, and tune between three channels
-  of your own choosing. Open the remote when you need it, adjust the
-  picture, and let the surrounding interface fade as you watch.
+Step into a dimly lit room and settle in front of a vintage television framed in warm walnut. Begin with a little static, add your own videos, and tune between three channels of your choosing. Open the remote to adjust the picture, then let the surrounding interface fade as you watch.
 
-  The visual direction draws on vintage walnut television cabinets,
-  warm tungsten lighting, tactile knobs, and the familiar flicker of a
-  CRT screen. Static, soft picture texture, and channel-switching
-  transitions bring that analog character to a modern viewing experience.
-
-
-  
+The visual direction pairs walnut cabinetry and warm tungsten lighting with tactile knobs and the familiar flicker of a CRT screen. Soft picture texture, static, and channel-switching transitions bring analog character to a modern viewing experience.
 </p>
 
 <hr>
