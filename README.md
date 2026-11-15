@@ -6,7 +6,7 @@
 
   <p>
     A vintage television experience that brings warm walnut,
-    analog texture, and your favorite videos into a quiet room.
+    analog texture, and your favorite Democratic TV commercials into a quiet room.
   </p>
 
 </div>
@@ -51,27 +51,9 @@
 
 <h2 id="project-details">🛠️ Project Details</h2>
 
-<p><strong>Tools:</strong> Lovable, ChatGPT, GitHub, Vercel</p>
+<p><strong>Tools:</strong> Lovable, ChatGPT, Vercel</p>
 
-<p><strong>Technology:</strong> React, TypeScript, TanStack Start, Vite, Tailwind CSS, YouTube IFrame API, native HTML video</p>
-
-<p><strong>Format:</strong> Browser Video Experience</p>
-
-<p><strong>Design:</strong> MAGNOLIA · MODEL 2026</p>
-
-<p><strong>Created by:</strong> <a href="https://www.linkedin.com/in/redefiningvicky/">Vicky Wong</a></p>
-
-<p>
-  <strong>Source Code:</strong>
-  <a href="https://github.com/redefiningvicky/static-soul-tv-a719948f66f5">
-    Application Repository
-  </a>
-</p>
-
-<p>
-  This repository presents the project. Application code and development
-  live in the source repository linked above.
-</p>
+<p><strong>Format:</strong> Browser Video</p>
 
 <hr>
 
