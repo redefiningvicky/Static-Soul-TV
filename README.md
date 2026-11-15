@@ -153,6 +153,74 @@
 
 <hr>
 
+<h2 id="images">🖼️ Images</h2>
+
+<h3>Static</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_01_on.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_01_on.png"
+          alt="On Air"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>James Colom</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_02_colom.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_02_colom.png"
+          alt="Scott Colom"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>James Talarico</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_03_talarico.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_03_talarico.png"
+          alt="James Talarico"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>James Off Air</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_04_off.png">
+        <img
+          src="screenshots/original_screenshots/original_screenshot_04_off.png"
+          alt="James Colom"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 <div align="center">
 
   <p>
