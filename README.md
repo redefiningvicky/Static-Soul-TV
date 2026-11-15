@@ -27,7 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-This project is a browser-based vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware to a modern browser. It is a reminder to stay human, authentic, and hopeful while holding on to our principles and values.
+This project is a vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware with a reminder to stay human and authentic while holding to principles.
 </p>
 
 <hr>
@@ -164,9 +164,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_01_on.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_01_on.png">
         <img
-          src="screenshots/original_screenshots/original_screenshot_01_on.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_01_on.png"
           alt="On Air"
           width="100%"
         />
@@ -180,9 +180,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_02_colom.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_colom.png">
         <img
-          src="screenshots/original_screenshots/original_screenshot_02_colom.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_02_colom.png"
           alt="Scott Colom"
           width="100%"
         />
@@ -196,9 +196,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_03_talarico.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png">
         <img
-          src="screenshots/original_screenshots/original_screenshot_03_talarico.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png"
           alt="James Talarico"
           width="100%"
         />
@@ -212,9 +212,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/original_screenshots/original_screenshot_04_off.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_04_off.png">
         <img
-          src="screenshots/original_screenshots/original_screenshot_04_off.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_04_off.png"
           alt="James Colom"
           width="100%"
         />
