@@ -149,10 +149,10 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 
 <hr>
 
-<h2 id="app">📺 App</h2>
+<h2 id="app">📺 TV</h2>
 
 <p>
-  <a href="https://static-soul-tv.vercel.app/">Launch App</a>
+  <a href="https://static-soul-tv.vercel.app/">Launch TV</a>
 </p>
 
 <hr>
