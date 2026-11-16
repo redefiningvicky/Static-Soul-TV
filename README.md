@@ -52,6 +52,19 @@ This project is a vintage television experience for watching Democratic Party co
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+        <img
+          src="https://www.collectiveaudiovisualsolutions.com.au/wp-content/uploads/2017/03/TV-Installation.jpg"
+          width="480"
+          alt="Television"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
   <ul>
     <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
     <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
