@@ -56,7 +56,7 @@ This project is a vintage television experience for watching Democratic Party co
   <tr>
     <td>
         <img
-          src="https://www.collectiveaudiovisualsolutions.com.au/wp-content/uploads/2017/03/TV-Installation.jpg"
+          src="https://cdn.mos.cms.futurecdn.net/QPvZS4zdubWAE3gY4MQV3A.jpg"
           width="480"
           alt="Television"
         />
