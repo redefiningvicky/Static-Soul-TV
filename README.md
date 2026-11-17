@@ -193,7 +193,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
       <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png">
         <img
           src="screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png"
-          alt="Scott Colom"
+          alt="Sinners"
           width="100%"
         />
       </a>
@@ -211,7 +211,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
       <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_off.png">
         <img
           src="screenshots/cropped_screenshots/cropped_screenshot_03_off.png"
-          alt="James Colom"
+          alt="Off Air"
           width="100%"
         />
       </a>
