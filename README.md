@@ -3,7 +3,7 @@
   <h1>📺 Static Soul TV</h1>
 
   <p>
-    A vintage television experience that brings analog texture and Democratic TV commercials into a quiet room.
+    A vintage television experience that brings analog texture and videos into a quiet room.
   </p>
 
 </div>
@@ -69,8 +69,6 @@ This project is a vintage television experience for watching Democratic Party co
     <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
     <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
     <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom for Mississippi</a></li>  
-    <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
-    <li><a href="https://youtu.be/u_9GX4n5GHI?si=2GU3mq74HkVSpRHZ">Abuse by Amy Acton for Ohio</a></li>
     <li>Being human. Being a human storyteller.</li>
 <hr>
 
@@ -111,10 +109,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   <summary><strong>Symbolism</strong></summary>
   <ul>
     <li>Magnolia, state flower of Mississippi.</li>
-    <li>Model 2026, 2026 Midterm Elections.</li>
-    <li>Solid Blue State, Democratic Party associated with blue.</li>
-    <li>Color Television, for racial equality.</li>
-    <li>On Air Democratic Party, hope for the people and nation.</li>
+    <li>Model 2026.</li>
+    <li>Solid Blue State.
+    <li>Color Television.</li>
   </ul>
 </details>
 
