@@ -190,9 +190,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_colom.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png">
         <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_02_colom.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png"
           alt="Scott Colom"
           width="100%"
         />
@@ -201,36 +201,6 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Talarico for Texas TV Commercial</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png">
-        <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png"
-          alt="James Talarico"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>Amy Acton for Ohio TV Commercial</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_05_acton.png">
-        <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_05_acton.png"
-          alt="Amy Acton"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <h3>Off Air</h3>
@@ -238,9 +208,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_04_off.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_off.png">
         <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_04_off.png"
+          src="screenshots/cropped_screenshots/cropped_screenshot_03_off.png"
           alt="James Colom"
           width="100%"
         />
