@@ -27,7 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-This project is a vintage television experience for watching videos through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Gemini, and ChatGPT, the experience brings the character of analog hardware with the intention of being human and authentic while keeping principles.
+This project is a vintage television experience for watching videos through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Gemini, ChatGPT, and Claude the experience brings the character of analog hardware with the intention of being human and authentic while keeping principles.
 </p>
 
 <hr>
@@ -74,8 +74,8 @@ This project is a vintage television experience for watching videos through the 
 
 <h2 id="project-details">🛠️ Project Details</h2>
 
-<p><strong>Tools:</strong> Lovable, Gemini, ChatGPT</p>
-<p><strong>Models:</strong> Gemini 4 Argon, ChatGPT Sol 6.1 (2026), ChatGPT Astra 6 (2026)</p>
+<p><strong>Tools:</strong> Lovable, Gemini, ChatGPT, Claude</p>
+<p><strong>Models:</strong> Gemini 4 Argon (2026), ChatGPT Sol 6.1 (2026), ChatGPT Astra 6, Claude Sonnet 5.5 (2026)</p>
 <p><strong>Format:</strong> Browser Video</p>
 
 <hr>
