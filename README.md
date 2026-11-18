@@ -3,7 +3,7 @@
   <h1>📺 Static Soul TV</h1>
 
   <p>
-    A vintage television experience that brings analog texture and Democratic TV commercials into a quiet room.
+    A vintage television experience that brings analog texture and videos into a quiet room.
   </p>
 
 </div>
@@ -27,7 +27,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-This project is a vintage television experience for watching Democratic Party commercials through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Claude, and ChatGPT, the experience brings the character of analog hardware with the intention of being human and authentic while keeping principles.
+This project is a vintage television experience for watching videos through the lens of human stories and art. Set in a softly lit room with compact controls, the television takes center stage and keeps the focus on the screen. Created with Lovable, Gemini, ChatGPT, and Claude the experience brings the character of analog hardware with the intention of being human and authentic while keeping principles.
 </p>
 
 <hr>
@@ -69,15 +69,13 @@ This project is a vintage television experience for watching Democratic Party co
     <li><a href="https://youtu.be/yneynem93s4?si=EPflvxbyt6FbpROI">Sinners by Ryan Coogler</a></li>
     <li><a href="https://youtu.be/3eL-XNmcuLQ?si=XdoMTtoX3355DSw2">Last Time (I Seen the Sun) by Alice Smith and Miles Caton</a></li>
     <li><a href="https://youtu.be/yGG1tSCoNbk?si=DZKxOonZFEmsnr6U">Sinators by Scott Colom for Scott Colom for Mississippi</a></li>  
-    <li><a href="https://youtu.be/P9coTl6n_6o?si=EIGTRt5vkW9u89sv">Hope by James Talarico for Texas</a></li>
-    <li><a href="https://youtu.be/u_9GX4n5GHI?si=2GU3mq74HkVSpRHZ">Abuse by Amy Acton for Ohio</a></li>
     <li>Being human. Being a human storyteller.</li>
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
 
-<p><strong>Tools:</strong> Lovable, ChatGPT, Vercel</p>
-<p><strong>Models:</strong> ChatGPT Sol 6.1 (2026), ChatGPT Astra 6 (2026)</p>
+<p><strong>Tools:</strong> Lovable, Gemini, ChatGPT, Claude</p>
+<p><strong>Models:</strong> Gemini 4 Argon (2026), ChatGPT Sol 6.1 (2026), ChatGPT Astra 6, Claude Sonnet 5.5 (2026)</p>
 <p><strong>Format:</strong> Browser Video</p>
 
 <hr>
@@ -111,10 +109,9 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   <summary><strong>Symbolism</strong></summary>
   <ul>
     <li>Magnolia, state flower of Mississippi.</li>
-    <li>Model 2026, 2026 Midterm Elections.</li>
-    <li>Solid Blue State, Democratic Party associated with blue.</li>
-    <li>Color Television, for racial equality.</li>
-    <li>On Air Democratic Party, hope for the people and nation.</li>
+    <li>Model 2026.</li>
+    <li>Solid Blue State.
+    <li>Color Television.</li>
   </ul>
 </details>
 
@@ -188,15 +185,15 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Colom for Mississippi TV Commercial</h3>
+<h3>Sinners Movie Scene</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_colom.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png">
         <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_02_colom.png"
-          alt="Scott Colom"
+          src="screenshots/cropped_screenshots/cropped_screenshot_02_sinners.png"
+          alt="Sinners"
           width="100%"
         />
       </a>
@@ -204,36 +201,6 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>James Talarico for Texas TV Commercial</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png">
-        <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_03_talarico.png"
-          alt="James Talarico"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>Amy Acton for Ohio TV Commercial</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_05_acton.png">
-        <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_05_acton.png"
-          alt="Amy Acton"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <h3>Off Air</h3>
@@ -241,10 +208,10 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_04_off.png">
+      <a href="https://github.com/redefiningvicky/Static-Soul-TV/blob/main/screenshots/cropped_screenshots/cropped_screenshot_03_off.png">
         <img
-          src="screenshots/cropped_screenshots/cropped_screenshot_04_off.png"
-          alt="James Colom"
+          src="screenshots/cropped_screenshots/cropped_screenshot_03_off.png"
+          alt="Off Air"
           width="100%"
         />
       </a>
