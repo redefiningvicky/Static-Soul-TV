@@ -75,6 +75,7 @@ This project is a vintage television experience for watching videos through the 
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p><strong>Tools:</strong> Lovable, Gemini, ChatGPT, Claude</p>
+<p><strong>Workflow:</strong> Gemini → Lovable → ChatGPT → Claude</p>
 <p><strong>Models:</strong> Gemini 4 Argon (2026), ChatGPT Sol 6.1 (2026), ChatGPT Astra 6 (2026), Claude Sonnet 5.5 (2026)</p>
 <p><strong>Format:</strong> Browser Video</p>
 
