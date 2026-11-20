@@ -186,7 +186,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
   </tr>
 </table>
 
-<h3>On Air with the Film Sinners</h3>
+<h3>On Air with Sinners</h3>
 
 <table>
   <tr>
