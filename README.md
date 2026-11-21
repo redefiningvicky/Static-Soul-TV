@@ -163,7 +163,7 @@ The visual direction pairs walnut cabinetry and warm tungsten lighting with tact
 <h2 id="tv">📺 TV</h2>
 
 <p>
-  <a href="https://static-soul-tv.lovable.app/">Launch TV</a>
+  <a href="https://redefiningvicky.github.io/Static-Soul-TV/">Launch TV</a>
 </p>
 
 <hr>
